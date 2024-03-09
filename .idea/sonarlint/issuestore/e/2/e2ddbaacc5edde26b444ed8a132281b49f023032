@@ -1,0 +1,24 @@
+
+Q
+java:S3740S"/Provide the parametrized type for this generic.(ιΟξςψÿÿÿÿ8―„€Πα1
+z
+java:S21421"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Ν΄#8ά„€Πα1
+r	java:S116i"QRename this field "doc_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒΖΠ­ώÿÿÿÿ8ε„€Πα1
+q	java:S116j"URename this field "doc_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Νª†8θ„€Πα1
+t	java:S116k"SRename this field "doc_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°βϊωÿÿÿÿ8κ„€Πα1
+p	java:S116m"TRename this field "owner_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ί»Ω8μ„€Πα1
+{	java:S116n"ZRename this field "participant_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Γϋÿÿÿÿÿ8μ„€Πα1
+s	java:S116o"WRename this field "producer_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª”Ρ…8μ„€Πα1
+{	java:S116p"ZRename this field "production_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έ²φόÿÿÿÿ8μ„€Πα1
+{	java:S116q"ZRename this field "production_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΈΥ²‰ϋÿÿÿÿ8μ„€Πα1
+o	java:S116s"SRename this field "reg_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ό¥ϋ΄8μ„€Πα1
+v	java:S116t"URename this field "reg_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ΗΦΟϊÿÿÿÿ8μ„€Πα1
+€	java:S116z"_Rename this field "certificate_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύϋπψÿÿÿÿ8ν„€Πα1
+…	java:S116{"dRename this field "certificate_document_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Μτω‚ωÿÿÿÿ8ν„€Πα1
+‡	java:S116|"fRename this field "certificate_document_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θωψύÿÿÿÿ8ν„€Πα1
+p	java:S116}"TRename this field "owner_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ί»Ω8ν„€Πα1
+s	java:S116~"WRename this field "producer_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª”Ρ…8ν„€Πα1
+{	java:S116"ZRename this field "production_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έ²φόÿÿÿÿ8ν„€Πα1
+q	java:S116€"URename this field "tnved_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Β™8ν„€Πα1
+u	java:S116"SRename this field "uit_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(δΉΥψÿÿÿÿ8ν„€Πα1
+v	java:S116‚"TRename this field "uitu_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ψίωÿÿÿÿ8ν„€Πα1
